@@ -1,4 +1,4 @@
-# MEAN_stack_web_app
+## MEAN stack web app
 A learning project of website application using the MEAN stack
 
 *2015@MichiganHackers*
